@@ -67,9 +67,8 @@ class _MyHomePageState extends State<MyHomePage> {
     var signInButton = new RaisedButton(
         color: Colors.white,
         child: buttonRow,
-        onPressed: () {
-          //handleSignIn();
-        });
+        onPressed: () {}
+    );
 
     Center center = new Center(
       child: signInButton,

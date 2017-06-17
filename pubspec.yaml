@@ -16,10 +16,6 @@ flutter:
   # the Icons class.
   uses-material-design: true
 
-  fonts:
-    - family: Roboto
-      fonts:
-        - asset: resources/fonts/Roboto-Medium.ttf
   assets:
     - resources/google_signin_buttons/logo_googleg.png
 
